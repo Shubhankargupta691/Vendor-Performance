@@ -1,0 +1,7 @@
+.venv/*
+venv/*
+.vscode/*
+.git/*
+artifacts/*
+Logs/*
+__pycache__/*

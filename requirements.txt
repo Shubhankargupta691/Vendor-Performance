@@ -1,0 +1,10 @@
+sqlalchemy
+pandas
+Pathlib
+types-PyYAML
+notebook
+ensure
+python-box
+joblib
+matplotlib
+seaborn

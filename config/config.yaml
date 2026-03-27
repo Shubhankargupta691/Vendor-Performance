@@ -1,0 +1,18 @@
+artifacts_root: artifacts
+
+#  Change the source_URL to the actual URL of your dataset and file_extension to the actual extension of your dataset (e.g., .csv, .zip, etc.)
+data_ingestion:
+  root_dir: artifacts/data
+  file_extension: .csv
+
+
+inventory_data_db:
+  root_dir: artifacts/inventoryDB
+  database_name: artifacts/inventoryDB/inventory_data.db
+
+
+summary:
+  summary_name: vendor_sales_summary
+
+
+
